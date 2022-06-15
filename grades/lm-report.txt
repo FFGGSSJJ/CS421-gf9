@@ -1,0 +1,33 @@
+LM 1: Recursion
+   1.1: Write an Integer Recursion (2 points)
+        exam1-q1 (2/2)
+   1.2: Write a Mapping Recursion (2 points)
+        act1 (2/2)
+   1.3: Write a Folding Recursion (2 points)
+        act1 (2/2)
+   1.4: Write a Tail Recursive Function (2 points)
+        exam1-q2 (2/2)
+   1.5: Select Tail Recursion Advantage (2 points)
+        exam1-q3 (2/2)
+LM 2: Algebraic Data Types
+   2.1: Write datatype (2 points)
+        mp1 (2/2)
+   2.2: Consume datatype (3 points)
+        act2 (3/3)
+   2.3: Transform datatype (3 points)
+        exam1-q4 (3/3)
+   2.4: Produce datatype (2 points)
+        mp1 (2/2)
+LM 3: Higher Order Functions
+   3.1: Writing HOFs (5 points)
+        exam1-q5 (3/3)
+        act3 (2/2)
+   3.2: Using HOFs (5 points)
+        exam1-q6 (5/5)
+LM 4: Interpreters
+LM 6: Lambda Calculus
+   6.1: Reduce a lambda calculus expression (10 points)
+        exam1-q7 (10/10)
+LM 7: Evaluation Semantics
+   7.1: Write a big step semantics proof tree (5 points)
+        exam1-q8 (0/5)
